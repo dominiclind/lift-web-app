@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "lift",
+    "style": "scss",
+    "postcss": true
+  }
+}
